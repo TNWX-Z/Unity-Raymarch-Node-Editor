@@ -1,11 +1,8 @@
 # Unity-Raymarch-Node-Editor
 Node Editor for Raymarch Model System
-
 #基本模型(Base Model)
-中文菜单:
-![image] (https://github.com/TNWX-Z/Unity-Raymarch-Node-Editor/blob/master/ReadmeInfo/ray5.png)
-English Reference:
-![image] (https://github.com/TNWX-Z/Unity-Raymarch-Node-Editor/blob/master/ReadmeInfo/ray5_1.png)
+中文菜单:![image] (https://github.com/TNWX-Z/Unity-Raymarch-Node-Editor/blob/master/ReadmeInfo/ray5.png)
+English Reference:![image] (https://github.com/TNWX-Z/Unity-Raymarch-Node-Editor/blob/master/ReadmeInfo/ray5_1.png)
 #基本模型混合
 中文菜单:
 ![image] (https://github.com/TNWX-Z/Unity-Raymarch-Node-Editor/blob/master/ReadmeInfo/ray7.jpg)
@@ -29,3 +26,15 @@ English Reference:
 注意：后期需要你自己手动写渲染,我是没有时间和精力去集成它.
 ![image] (https://github.com/TNWX-Z/Unity-Raymarch-Node-Editor/blob/master/ReadmeInfo/ray2.jpg)
 ![image] (https://github.com/TNWX-Z/Unity-Raymarch-Node-Editor/blob/master/ReadmeInfo/ray1.jpg)
+
+#联系(Contact):
+QQ : 834144373 (often online)
+
+Twotter : @834144373zhu (Sometimes online,To be honest,I don't know how to use it!)
+
+E-mail : 834144373@qq.com or zhu834144373@hotmail.com
+
+And you can also comment or study from follow websites:
+
+http://blog.csdn.net/baidu_26153715/article/ 
+https://www.shadertoy.com/user/834144373
