@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/RaymarchNodeEditor/test1.unity
+  isLoaded: 1
+  isActive: 1
