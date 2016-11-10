@@ -3,13 +3,14 @@ Node Editor for Raymarch Model System
 #基本模型(Base Model)
 中文菜单:![image] (https://github.com/TNWX-Z/Unity-Raymarch-Node-Editor/blob/master/ReadmeInfo/ray5.png)
 English Reference:![image] (https://github.com/TNWX-Z/Unity-Raymarch-Node-Editor/blob/master/ReadmeInfo/ray5_1.png)
-#基本模型混合
+#基本模型混合(Base Model Morph)
 中文菜单:
 ![image] (https://github.com/TNWX-Z/Unity-Raymarch-Node-Editor/blob/master/ReadmeInfo/ray7.jpg)
-然后你可以看到简单的效果：
+然后你可以看到简单的效果：(haha...Then you can see how it work!)
 ![image] (https://github.com/TNWX-Z/Unity-Raymarch-Node-Editor/blob/master/ReadmeInfo/ray6.jpg)
 #分组模型和材质ID(Group Model & Material ID)
 分组模型，这样做的好处是你可以划分明确的组来管理模型对象.
+(Here 4 Distance Groups,you can easy manager the Group by Group Node Editor)
 ![image] (https://github.com/TNWX-Z/Unity-Raymarch-Node-Editor/blob/master/ReadmeInfo/ray9_1.png)
 这儿是自定义的材质ID来自定义渲染,材质的ID最小分配为模型组,有利于减小开销.
 注意!!!：关于渲染系统节点,考虑到灵活性是没有集成进来的.(The Render System of the Node Editor is not included here!!!)
@@ -19,7 +20,7 @@ English Reference:![image] (https://github.com/TNWX-Z/Unity-Raymarch-Node-Editor
 第一种风格是默认简洁版的(Simple and Clearly Style)：大部分采用这种版本可以起到后期优化提升效率
 ![image] (https://github.com/TNWX-Z/Unity-Raymarch-Node-Editor/blob/master/ReadmeInfo/ray8.jpg)
 
-第二种风格是智能绿色版的(Smart and Humanoid)：但是这种风格你需要手动去配置代码生成器，因为我注释掉了.
+第二种风格是智能绿色版的(Smart and Humanoid Style)：但是这种风格你需要手动去配置代码生成器，因为我注释掉了.
 ![image] (https://github.com/TNWX-Z/Unity-Raymarch-Node-Editor/blob/master/ReadmeInfo/ray8_1.jpg)
 
 # Screen Shoot
