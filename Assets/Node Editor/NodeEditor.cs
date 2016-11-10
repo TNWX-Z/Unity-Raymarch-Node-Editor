@@ -12,7 +12,7 @@ public class NodeEditor : EditorWindow {
     public enum NodeType
     {
         RenderNode,
-        GemetryNode,
+        //GemetryNode,
         ShapeNode,
         MorphNode,
         Result
@@ -55,7 +55,7 @@ public class NodeEditor : EditorWindow {
 
         mainMenu = new GenericMenu();
         mainMenu.AddItem(new GUIContent("Add Render Node"), false, AddWindow, NodeType.RenderNode);
-        mainMenu.AddItem(new GUIContent("Add Gemetry Node"), false, AddWindow, NodeType.GemetryNode);
+        //mainMenu.AddItem(new GUIContent("Add Gemetry Node"), false, AddWindow, NodeType.GemetryNode);
         mainMenu.AddSeparator("");
         mainMenu.AddItem(new GUIContent("Model System/Add Shape Node"), false, AddWindow, NodeType.ShapeNode);
         mainMenu.AddItem(new GUIContent("Model System/Add Morph Node"), false, AddWindow, NodeType.MorphNode);
@@ -192,9 +192,6 @@ public class NodeEditor : EditorWindow {
         {
             case NodeType.RenderNode:
                 temp = ScriptableObject.CreateInstance<RenderNode>();
-                break;
-            case NodeType.GemetryNode:
-                temp = ScriptableObject.CreateInstance<GemetryNode>();
                 break;
             case NodeType.ShapeNode:
                 temp = ScriptableObject.CreateInstance<ShapeNode>();
