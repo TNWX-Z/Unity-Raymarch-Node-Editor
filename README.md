@@ -36,6 +36,9 @@ Twitter : @834144373zhu (Sometimes online,To be honest,I don't know how to use i
 E-mail : 834144373@qq.com or zhu834144373@hotmail.com
 
 And you can also comment on or study from follow my websites:
+
 (Note: The follow articles and codes are base on the "CC3.0-BY-NC-SA")
+
 http://blog.csdn.net/baidu_26153715/article/ 
+
 https://www.shadertoy.com/user/834144373
