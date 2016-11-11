@@ -1,5 +1,5 @@
 # Unity-Raymarch-Node-Editor
-Node Editor for Raymarch Model System
+Node Editor for Raymarch Model System -->[Unity3D 5.4.0 or higher version.]<--
 #基本模型(Base Model)
 中文菜单:![image] (https://github.com/TNWX-Z/Unity-Raymarch-Node-Editor/blob/master/ReadmeInfo/ray5.png)
 English Reference:![image] (https://github.com/TNWX-Z/Unity-Raymarch-Node-Editor/blob/master/ReadmeInfo/ray5_1.png)
@@ -28,14 +28,14 @@ English Reference:![image] (https://github.com/TNWX-Z/Unity-Raymarch-Node-Editor
 ![image] (https://github.com/TNWX-Z/Unity-Raymarch-Node-Editor/blob/master/ReadmeInfo/ray2.jpg)
 ![image] (https://github.com/TNWX-Z/Unity-Raymarch-Node-Editor/blob/master/ReadmeInfo/ray1.jpg)
 
-#联系(Contact):
+#联系与体验反馈(Contact & Information Feedback):
 QQ : 834144373 (often online)
 
-Twotter : @834144373zhu (Sometimes online,To be honest,I don't know how to use it!)
+Twitter : @834144373zhu (Sometimes online,To be honest,I don't know how to use it!)
 
 E-mail : 834144373@qq.com or zhu834144373@hotmail.com
 
-And you can also comment or study from follow websites:
-
+And you can also comment on or study from follow my websites:
+(Note: The follow articles and codes are base on the "CC3.0-BY-NC-SA")
 http://blog.csdn.net/baidu_26153715/article/ 
 https://www.shadertoy.com/user/834144373
