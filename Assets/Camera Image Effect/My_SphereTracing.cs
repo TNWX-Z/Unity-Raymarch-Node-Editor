@@ -30,7 +30,7 @@ public class My_SphereTracing : MonoBehaviour {
             my_mesh = new Mesh();
             my_mesh.vertices = new[] {
                 new Vector3(-1,-1),new Vector3(1,-1),
-                Vector3.one,new Vector3(-1,1)
+                new Vector3(1,1,0),new Vector3(-1,1)
             };
             my_mesh.triangles = new int[] { 0, 1, 2, 0, 2, 3 };
         }
